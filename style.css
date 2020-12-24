@@ -1,0 +1,36 @@
+
+h1{
+    color: rebeccapurple;
+}
+h2{
+    color: salmon;
+}
+*{
+    background-color:thistle;
+    border:solid;
+}
+.header{
+    background-color: indigo;
+}
+.grid{
+    background-color: fuchsia;
+    display:flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+}
+.item{
+background-color: hotpink;
+
+}
+.footer{
+    background-color: lightblue;
+    display:flex;
+    justify-content: flex-end;
+}
+
+p{
+
+    text-align: center;
+color: limegreen;
+text-emphasis-color: hotpink;
+}
